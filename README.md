@@ -1,2 +1,2 @@
-# Learning-web-develop-
-A personal project to learn about html/css/javascript that I did awhile back
+# Learning web development
+A personal project to learn about html/css/javascript that I did awhile back and I am planning develop more when I have free time.
